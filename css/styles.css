@@ -20,4 +20,8 @@ li {
 
 li a{
     display: block;
+    text-align: center;
+    padding: 5%;
+    text-decoration: none;
 }
+
